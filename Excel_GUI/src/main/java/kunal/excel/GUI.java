@@ -526,8 +526,8 @@ public class GUI extends JFrame {
 
 		
 		getContentPane().add(txt);
-	    getContentPane().add(scroll_path);
-	    getContentPane().add(scroll_dis);
+	    	getContentPane().add(scroll_path);
+	    	getContentPane().add(scroll_dis);
 		getContentPane().add(file_btn);
 		getContentPane().add(crud_btn);
 		getContentPane().add(pop_crud);
