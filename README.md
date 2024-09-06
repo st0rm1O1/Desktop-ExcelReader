@@ -58,6 +58,6 @@ The application has a straightforward layout:
 Contributions are welcome. Fork the repository and submit pull requests with your changes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 License.
 
 ---
