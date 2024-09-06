@@ -1,6 +1,6 @@
 # Excel Viewer - POI
 
-![](preview/icon.png)
+![](src/main/resources/mipmap/icon.png)
 
 ![](preview/preview-1.jpeg)
 
